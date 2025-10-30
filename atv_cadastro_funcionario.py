@@ -1,5 +1,4 @@
-'''lista de funcionários, adicionar funcionários a esta lista, listar funcionários, 
-buscar funcionários por nome e calcular média salarial'''
+'''Atividade Professora Karla'''
 
 def adicionar_funcionario(lista_funcionarios):
     nome = str(input('Digite o nome do funcionário: '))
@@ -89,3 +88,4 @@ lista_funcionarios = []
 
 
 #listar_funcionarios(lista_funcionarios)
+
