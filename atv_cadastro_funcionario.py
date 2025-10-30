@@ -67,16 +67,16 @@ def calcular_medial_salarial(lista_funcionarios):
     
 lista_funcionarios = []
 
-listar_funcionarios(lista_funcionarios)
+#listar_funcionarios(lista_funcionarios)
 
-calcular_medial_salarial(lista_funcionarios)
+#calcular_medial_salarial(lista_funcionarios)
 
-adicionar_funcionario(lista_funcionarios)
-adicionar_funcionario(lista_funcionarios)
-adicionar_funcionario(lista_funcionarios)
+#adicionar_funcionario(lista_funcionarios)
+#adicionar_funcionario(lista_funcionarios)
+#adicionar_funcionario(lista_funcionarios)
 
-listar_funcionarios(lista_funcionarios)
-calcular_medial_salarial(lista_funcionarios)
+#listar_funcionarios(lista_funcionarios)
+#calcular_medial_salarial(lista_funcionarios)
 
 #buscar_funcionario(lista_funcionarios)
 
@@ -86,5 +86,6 @@ calcular_medial_salarial(lista_funcionarios)
 
 #adicionar_funcionario(lista_funcionarios)
 #adicionar_funcionario(lista_funcionarios)
+
 
 #listar_funcionarios(lista_funcionarios)
